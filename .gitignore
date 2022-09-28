@@ -1,5 +1,3 @@
-# Object file
-*.o
+# VS code config
+.vscode
 
-# Ada Library Information
-*.ali
