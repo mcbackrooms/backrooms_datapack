@@ -1,6 +1,6 @@
 # MC backrooms
-main creator: atomu21263 TN-potato
-Backrooms in Minecraft
+Backrooms in Minecraft  
+main creator: atomu21263 TN-potato  
 
 ## Production Environment
 Minecraft 1.19
