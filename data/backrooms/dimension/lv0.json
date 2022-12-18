@@ -1,5 +1,5 @@
 {
-  "type": "backrooms:the_rooms",
+  "type": "backrooms:lv0",
   "generator": {
     "type": "minecraft:flat",
     "settings": {
@@ -8,12 +8,16 @@
       "features": false,
       "layers": [
         {
-          "block": "minecraft:wet_sponge",
+          "block": "minecraft:spruce_planks",
+          "height": 1
+        },
+        {
+          "block": "minecraft:yellow_carpet",
           "height": 1
         },
         {
           "block": "minecraft:air",
-          "height": 5
+          "height": 4
         },
         {
           "block": "minecraft:smooth_sandstone",
